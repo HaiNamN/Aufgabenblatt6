@@ -56,6 +56,7 @@ public class SchiffeVersenken {
             int b = 0++;
             int c = 0++;
            schlachtFeld[a][b] = c;
+            System.out.println(test);
         }
     }
 }

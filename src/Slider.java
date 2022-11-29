@@ -52,11 +52,11 @@ public class SchiffeVersenken {
         int[][] schlachtFeld = new int[x][y];
 
         for (int i=0; i<=x*y; i++) {
-            int a = 0++;
-            int b = 0++;
-            int c = 0++;
+            int a = ++0;
+            int b = ++0;
+            int c = ++0;
            schlachtFeld[a][b] = c;
-            System.out.println(test);
+           //test
         }
     }
 }
